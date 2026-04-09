@@ -1,2 +1,0 @@
-Reaction_temperature_C,metal_1_atomic,metal_2_atomic,metal_3_atomic,metal_4_atomic,Pressure_MPa,H2_CO2_ratio,GHSV_mL_gcat_h,Surface_area_m2_g,Crystallite_size_nm,Pore_volume_cm3_g,Total_acid_sites_mmol_g,Si/Al_ratio,Cu_Metal_atomic_fraction,Metal_acid_ratio,catalyst_mass_g,Integration_method,acid_component_type,Dimentionality_of_Zeolite,CO2 Conversion,DME Selectivity,timestamp
-350,8,8,8,0,30,'-2,1.2,2,5,3,20,'-4,0.2,1,2.4,Physical mixing,FER,2D,48.986368159203955,60.01575,2026-04-03 15:09:13.183614
