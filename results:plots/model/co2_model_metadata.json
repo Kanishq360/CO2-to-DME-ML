@@ -1,0 +1,34 @@
+{
+    "target": "CO2_conversion_efficiency_(%)",
+    "features": [
+        "Reaction_temperature_C",
+        "metal_1_atomic",
+        "metal_2_atomic",
+        "metal_3_atomic",
+        "metal_4_atomic",
+        "Pressure_MPa",
+        "H2_CO2_ratio",
+        "GHSV_mL_gcat_h",
+        "Surface_area_m2_g",
+        "Crystallite_size_nm",
+        "Pore_volume_cm3_g",
+        "Total_acid_sites_mmol_g",
+        "Si/Al_ratio",
+        "Cu_Metal_atomic_fraction",
+        "Metal_acid_ratio",
+        "catalyst_mass_g",
+        "Integration_method",
+        "acid_component_type",
+        "Dimentionality_of_Zeolite"
+    ],
+    "model_type": "ExtraTrees",
+    "mean_r2": 0.856,
+    "std_r2": 0.024,
+    "params": {
+        "n_estimators": 297,
+        "max_depth": 21,
+        "min_samples_split": 5,
+        "min_samples_leaf": 1,
+        "max_features": null
+    }
+}
