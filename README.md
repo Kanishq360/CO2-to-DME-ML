@@ -104,15 +104,6 @@ CO2-to-DME-ML/
 
 ---
 
-## Future Work
-
-* Advanced hyperparameter optimization
-* Model interpretability (e.g., SHAP analysis)
-* Multi-objective optimization (Pareto-based approaches)
-* Catalyst design space exploration
-
----
-
 ## Author
 
 Kanishq
