@@ -25,10 +25,10 @@
     "mean_r2": 0.856,
     "std_r2": 0.024,
     "params": {
-        "n_estimators": 297,
-        "max_depth": 21,
-        "min_samples_split": 5,
+        "n_estimators": 391,
+        "max_depth": 23,
+        "min_samples_split": 4,
         "min_samples_leaf": 1,
-        "max_features": null
+        "max_features": "sqrt"
     }
 }

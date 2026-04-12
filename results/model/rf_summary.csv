@@ -1,5 +1,5 @@
 Target,Mean CV R²,CV Std
-CO2 Conversion,0.814,0.101
-DME Selectivity,0.786,0.074
-Methanol Selectivity,0.731,0.134
-CO Selectivity,0.707,0.104
+CO2 Conversion,0.798,0.121
+DME Selectivity,0.768,0.062
+Methanol Selectivity,0.731,0.143
+CO Selectivity,0.725,0.091

@@ -22,16 +22,16 @@
         "Dimentionality_of_Zeolite"
     ],
     "model_type": "XGBoost",
-    "mean_r2": 0.808249394253389,
-    "std_r2": 0.03920945664604748,
+    "mean_r2": 0.7965458922843023,
+    "std_r2": 0.03840833562025785,
     "params": {
-        "n_estimators": 518,
-        "max_depth": 9,
-        "learning_rate": 0.052001467834412014,
-        "subsample": 0.616512616087781,
-        "colsample_bytree": 0.8560956909633418,
-        "gamma": 1.676459071953832,
-        "reg_alpha": 0.7086495382870582,
-        "reg_lambda": 1.104607351029474
+        "n_estimators": 305,
+        "max_depth": 10,
+        "learning_rate": 0.033500769054149775,
+        "subsample": 0.7496310415454236,
+        "colsample_bytree": 0.9159615767514071,
+        "gamma": 0.31243603164511186,
+        "reg_alpha": 0.4176799864090233,
+        "reg_lambda": 1.353589505054572
     }
 }
