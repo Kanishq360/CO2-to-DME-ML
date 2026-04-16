@@ -1,5 +1,5 @@
 {
-    "target": "CO2_conversion_efficiency_(%)",
+    "target": "CO_Selectivity_(%)",
     "features": [
         "Reaction_temperature_C",
         "metal_1_atomic",
@@ -22,13 +22,13 @@
         "Dimentionality_of_Zeolite"
     ],
     "model_type": "ExtraTrees",
-    "mean_r2": 0.856,
-    "std_r2": 0.024,
+    "mean_r2": 0.8145877571701854,
+    "std_r2": 0.09858477723117334,
     "params": {
-        "n_estimators": 391,
-        "max_depth": 23,
-        "min_samples_split": 4,
+        "n_estimators": 462,
+        "max_depth": 22,
+        "min_samples_split": 9,
         "min_samples_leaf": 1,
-        "max_features": "sqrt"
+        "max_features": null
     }
 }

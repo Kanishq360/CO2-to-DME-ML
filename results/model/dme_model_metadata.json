@@ -1,5 +1,5 @@
 {
-    "target": "DME_Selectivity_(%)",
+    "target": "CO_Selectivity_(%)",
     "features": [
         "Reaction_temperature_C",
         "metal_1_atomic",
@@ -22,16 +22,16 @@
         "Dimentionality_of_Zeolite"
     ],
     "model_type": "XGBoost",
-    "mean_r2": 0.7965458922843023,
-    "std_r2": 0.03840833562025785,
+    "mean_r2": 0.7977835324700399,
+    "std_r2": 0.04072348591223338,
     "params": {
-        "n_estimators": 305,
+        "n_estimators": 403,
         "max_depth": 10,
-        "learning_rate": 0.033500769054149775,
-        "subsample": 0.7496310415454236,
-        "colsample_bytree": 0.9159615767514071,
-        "gamma": 0.31243603164511186,
-        "reg_alpha": 0.4176799864090233,
-        "reg_lambda": 1.353589505054572
+        "learning_rate": 0.05795038127558555,
+        "subsample": 0.6513853333198675,
+        "colsample_bytree": 0.9266946937920335,
+        "gamma": 0.2746898751972659,
+        "reg_alpha": 0.8457757715327032,
+        "reg_lambda": 1.110055599229609
     }
 }
